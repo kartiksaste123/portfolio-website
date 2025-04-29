@@ -42,11 +42,6 @@ git clone https://github.com/kartiksaste123/portfolio-website.git
 
 This project is configured for deployment on Render. The `render.yaml` file contains the necessary configuration for static site deployment.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![Watch Now](./img/Design.jpg)
 # One page Portfolio Website (HTML CSS Project)
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
 
